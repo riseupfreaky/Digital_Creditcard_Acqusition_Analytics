@@ -31,6 +31,17 @@ Paid Search, Paid Social, Affiliate, Retail Partners, and App Store traffic.
 ## 📊 Deliverables
 - Funnel report  
 - Attribution comparison  
-- Experiment results  
+- Experiment results        
 - Optimization model  
 - Executive dashboard
+
+
+
+
+## Defining the Acquisition Funnel
+1. Impression → Ad shown
+2. Click → User clicked
+3. App Start → User started application
+4. App Complete → User submitted application
+5. Approval → Credit decision approved
+6. Activation → Card activated (first transaction)
